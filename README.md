@@ -1,5 +1,6 @@
 ## Hi! I'm Cesar! _(aka 23ceez)_
 * I'm a student at NJIT and I am working on many projects to strengthen my coding prowess :D
+* I'm also a big fan of sports, comic books, and gaming, so my projects will most likely revolve around those realms.
   
 <!--
 **23ceez/23ceez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
